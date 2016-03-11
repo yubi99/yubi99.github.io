@@ -1,0 +1,279 @@
+
+<li class="publication" data-time="20151001" data-venue="Soft Computing" data-topic="Computational Social Science" data-type="International Journal Papers">
+<span class="paper_title">A Single-directional Influence Topic Model Using Call and Proximity Logs Simultaneousl (SCIE, IF=1.27)</span>&nbsp;&nbsp;
+<a href="http://dx.doi.org/10.1007/s00500-015-1898-8">[View at Publisher]</a>&nbsp;<a href="./bib/sc1.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Seong-Bae Park, Seyoung Park<br>
+Soft Computing, 2015
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20151001" data-venue="Computational Intelligence and Neuroscience" data-topic="Natural Language Processing" data-type="International Journal Papers">
+<span class="paper_title">A Natural Language Interface Concordant with a Knowledge Base (SCIE, IF=0.596)</span>&nbsp;&nbsp;
+<a href="http://www.hindawi.com/journals/cin/2016/9174683/">[View at Publisher]</a>&nbsp;<a href="./bib/ci1.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Seong-Bae Park, Seyoung Park<br>
+Soft Computing, 2015
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20140601" data-venue="Journal of Korean Institute of Intelligent Systems" data-topic="Semantic Web" data-type="National Journal Papers">
+<span class="paper_title">Conflict Resolution of Patterns for Generating Linked Data from Tables</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02478274">[View at Publisher]</a>&nbsp;<a href="./bib/jk1.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Kweonyang Kim, Seyoung Park<br>
+Journal of Korean Institute of Intelligent Systems, 24(3), 2014
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20141001" data-venue="Journal of KIISE : Software and Applications" data-topic="Computational Social Science" data-type="National Journal Papers">
+<span class="paper_title">Relation-Context Topic Model for Social Relationship Classification</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02432636">[View at Publisher]</a>&nbsp;<a href="./bib/jk2.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Seong-Bae Park, Seyoung Park<br>
+Journal of KIISE : Software and Applications, 41(6), 2014
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20140601" data-venue="Journal of KIISE : Software and Applications" data-topic="Computational Social Science" data-type="National Journal Papers">
+<span class="paper_title">Relation-Context Topic Model for Social Relationship Classification</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02432636">[View at Publisher]</a>&nbsp;<a href="./bib/jk3.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Seong-Bae Park, Seyoung Park<br>
+Journal of KIISE : Software and Applications, 41(6), 2014
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20120601" data-venue="Journal of KIISE : Software and Applications" data-topic="Semantic Web" data-type="National Journal Papers">
+<span class="paper_title">A Method for Collecting Sentences Entailing Ontology Schema Triple</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01879762">[View at Publisher]</a>&nbsp;<a href="./bib/jk4.bib">[Bib]</a>
+<br>
+Jin-Wook Jeong, <span class="self">Yong-Jin Han</span>, Tae-Gil Noh, Seong-Bae Park, Sang-Jo Lee, Seyoung Park<br>
+Journal of KIISE : Software and Applications, 39(6), 2012
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20121201" data-venue="Journal of KIISE : Software and Applications" data-topic="Natural Language Processing" data-type="National Journal Papers">
+<span class="paper_title">Natural Language Interface Using Query Generation</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02055372">[View at Publisher]</a>&nbsp;<a href="./bib/jk5.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Seyoung Park<br>
+Journal of KIISE : Software and Applications, 39(12), 2012
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20081001" data-venue="Journal of The Korean Institute of Intelligent Systems" data-topic="Semantic Web" data-type="National Journal Papers">
+<span class="paper_title">A Measurement for the Degree of Semantic Relationship Between Two Instances Based on Context</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01086734">[View at Publisher]</a>&nbsp;<a href="./bib/jk6.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Seyoung Park, Seong-Bae Park, Kweonyang Kim<br>
+Journal of The Korean Institute of Intelligent Systems, 18(5), 2008
+<br>
+<br>
+</li>
+
+
+<li class="publication" data-time="20071201" data-venue="International Journal of Fuzzy Logic and Intelligent Systems" data-topic="Semantic Web" data-type="National Journal Papers">
+<span class="paper_title">Time Variant Event Ontology for Temporal People Information</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01016892">[View at Publisher]</a>&nbsp;<a href="./bib/jk7.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Seyoung Park, Seong-Bae Park, Young-Hwa Lee, Kweonyang Kim<br>
+International Journal of Fuzzy Logic and Intelligent Systems, 7(4), 2007
+<br>
+<br>
+</li>
+
+
+<li class="publication" data-time="20071201" data-venue="BigComp" data-topic="Semantic Web" data-type="International Conference Papers">
+<span class="paper_title">Detection of POI Boundaries through Geographical Topics</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01016892">[View at Publisher]</a>&nbsp;<a href="./bib/jk7.bib">[Bib]</a>
+<br>
+Thanh-Hieu Bui, <span class="self">Yong-Jin Han</span> Seong-Bae Park, Seyoung Park<br>
+BigComp, 2015
+<br>
+<br>
+</li>
+--------------------
+
+<li class="publication" data-time="20120601" data-venue="KCC" data-topic="Information Retrieval" data-type="National Conference Papers">
+<span class="paper_title">Conceptual Reranking Using Single Document Feedback</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01904022">[View at Publisher]</a>&nbsp;<a href="./bib/nc1.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span> Seyoung Park, Seong-Bae Park, Sang-Jo Lee<br>
+KCC, 2012
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20121101" data-venue="KCC" data-topic="Computational Social Science" data-type="National Conference Papers">
+<span class="paper_title">Social Relationship Classification of Mobile Usesrs by Context-awareness</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02058107">[View at Publisher]</a>&nbsp;<a href="./bib/nc2.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span> Seyoung Park<br>
+KCC, 2012
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20110601" data-venue="KCC" data-topic="National Language Processing" data-type="National Conference Papers">
+<span class="paper_title">Automatic Collecting of Natural Language Expressions of Relations for Natural Language Interface</span>&nbsp;&nbsp;
+<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01687893">[View at Publisher]</a>&nbsp;<a href="./bib/nc3.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span> Seyoung Park, Seong-Bae Park<br>
+KCC, 2011
+<br>
+<br>
+</li>
+----------------------------
+<li class="publication" data-time="20150201" data-venue="BigComp" data-topic="Semantic Web" data-type="International Conference Papers">
+<span class="paper_title">Detection of POI Boundaries through Geographical Topics</span>&nbsp;&nbsp;
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7072827">[View at Publisher]</a>&nbsp;<a href="./bib/ic1.bib">[Bib]</a>
+<br>
+Thanh-Hieu Bui, <span class="self">Yong-Jin Han</span> Seong-Bae Park, Seyoung Park<br>
+BigComp, 2015
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20140801" data-venue="ASONAM" data-topic="Computational Social Science" data-type="International Conference Papers">
+<span class="paper_title">Finding Social Interaction Patterns Using Call and Proximity Logs Simultaneously (acceptance rate 26%)</span>&nbsp;&nbsp;
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6921617&tag=1">[View at Publisher]</a>&nbsp;<a href="./bib/ic2.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Shao Bo Cheng, Seyoung Park, Seong-Bae Park<br>
+ASONAM, 2014
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20131101" data-venue="ICONIP" data-topic="Natural Language Processing" data-type="International Conference Papers">
+<span class="paper_title">Detection of Error-Prone Cases for Word Sense Disambiguation </span>&nbsp;&nbsp;
+<a href="http://link.springer.com/chapter/10.1007%2F978-3-642-42054-2_13">[View at Publisher]</a>&nbsp;<a href="./bib/ic3.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Sang-Jo Lee, Seyoung Park, Seong-Bae Park<br>
+ICONIP, 2013
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20100201" data-venue="IUI" data-topic="Natural Language Processing" data-type="International Conference Papers">
+<span class="paper_title">A Natural Language Interface of Thorough Coverage by Concordance with Knowledge Bases (acceptance rate 30%)</span>&nbsp;&nbsp;
+<a href="http://dl.acm.org/citation.cfm?id=1720022">[View at Publisher]</a>&nbsp;<a href="./bib/ic4.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Tae-Gil Noh, Seong-Bae Park, Seyoung Park, Sang-Jo Lee<br>
+IUI, 2010
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20100901" data-venue="PRICAI" data-topic="Semantic Web" data-type="International Conference Papers">
+<span class="paper_title">Ranking Entities Similar to an Entity for a Given Relationship</span>&nbsp;&nbsp;
+<a href="http://link.springer.com/chapter/10.1007%2F978-3-642-42054-2_13">[View at Publisher]</a>&nbsp;<a href="./bib/ic5.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Seong-Bae Park, Sang-Jo Lee, Seyoung Park, Kweon Yang Kim<br>
+PRICAI, 2010
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20090301" data-venue="ICCPOL" data-topic="Semantic Web" data-type="International Conference Papers">
+<span class="paper_title">Processing of Korean Natural Language Queries Using Local Grammars</span>&nbsp;&nbsp;
+<a href="http://link.springer.com/chapter/10.1007%2F978-3-642-42054-2_13">[View at Publisher]</a>&nbsp;<a href="./bib/ic6.bib">[Bib]</a>
+<br>
+Tae-Gil Noh, <span class="self">Yong-Jin Han</span>, Seong-Bae Park, Seyoung Park<br>
+ICCPOL, 2009
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20090801" data-venue="CSE" data-topic="Semantic Web" data-type="International Conference Papers">
+<span class="paper_title">Experience Search: Accessing the Emergent Knowledge from Annotated Blog Postings</span>&nbsp;&nbsp;
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5283787">[View at Publisher]</a>&nbsp;<a href="./bib/ic3.bib">[Bib]</a>
+<br>
+Tae-Gil Noh 
+<span class="self">Yong-Jin Han</span>, Jeong-Woo Son, Hyun-Jae Song, Hee-Geun Yoon, Jae-Ahn Lee, Sang-Do Lee, Kye-Sung Kim, Young-Hwa Lee, Seong-Bae Park, Seyoung Park, Sang-Jo Lee<br>
+CSE, 2009
+<br>
+<br>
+</li>
+
+
+-------------------------
+<li class="publication" data-time="20070901" data-venue="Natural Language Processing and Knowledge Engineering (NLP-KE)" data-topic="Semantic Web" data-type="International Conference Papers">
+<span class="paper_title">Reconstruction of people information based on an event ontology</span>&nbsp;&nbsp;
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4368069&tag=1">[View at Publisher]</a>&nbsp;<a href="./bib/ic8.bib">[Bib]</a>
+<br>
+<span class="self">Yong-Jin Han</span>, Seyoung Park, Seong-Bae Park, Young-Hwa Lee, Kweonyang Kim<br>
+Natural Language Processing and Knowledge Engineering (NLP-KE), 2007
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20070801" data-venue="Advanced Language Processing and Web Information Technology (ALPIT)" data-topic="Semantic Web" data-type="International Conference Papers">
+<span class="paper_title">Ontology population from unstructured and semi-structured texts</span>&nbsp;&nbsp;
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4460628">[View at Publisher]</a>&nbsp;<a href="./bib/ic9.bib">[Bib]</a>
+<br>
+Hee-Geun Yoon, <span class="self">Yong-Jin Han</span>, Seong-Bae Park, Seyoung Park<br>
+Advanced Language Processing and Web Information Technology (ALPIT), 2007
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20080701" data-venue="Advanced Language Processing and Web Information Technology (ALPIT)" data-topic="Natural Language Processing" data-type="International Conference Papers">
+<span class="paper_title">Determining Gender of Korean Names with Context</span>&nbsp;&nbsp;
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4584353">[View at Publisher]</a>&nbsp;<a href="./bib/ic10.bib">[Bib]</a>
+<br>
+Hee-Geun Yoon, Seong-Bae Park, <span class="self">Yong-Jin Han</span>, Sang-Jo Lee<br>
+Advanced Language Processing and Web Information Technology (ALPIT), 2008
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20130701" data-venue="KIPS Transactions on Software and Data Engineering" data-topic="Computational Social Science" data-type="National Journal Papers">
+<span class="paper_title">Estimating Personal and Social Information for Mobile User</span>&nbsp;&nbsp;
+<a href="http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=JBCRJM_2013_v2n9_603">[View at Publisher]</a>&nbsp;<a href="./bib/nc4.bib">[Bib]</a>
+<br>
+Jeong-Woo Son, <span class="self">Yong-Jin Han</span>, Hyun-Je Song, Seong-Bae Park, Sang-Jo Lee<br>
+KIPS Transactions on Software and Data Engineering, 2(9), 2013
+<br>
+<br>
+</li>
+
+<li class="publication" data-time="20100201" data-venue="Intelligent visual interfaces for text analysis (IVITA)" data-topic="Semantic Web" data-type="Workshop Papers">
+<span class="paper_title">User analysis and visualization from a semantic blog system</span>&nbsp;&nbsp;
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4584353">[View at Publisher]</a>&nbsp;<a href="./bib/ic11.bib">[Bib]</a>
+<br>
+Jeong-Woo Son, <span class="self">Yong-Jin Han</span>, Tae-Gil Noh, Seong-Bae Park, Seyoung Park<br>
+Intelligent visual interfaces for text analysis (IVITA), 2010
+<br>
+<br>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      - A Natural Language Interface Using Language Generation and Paraphrase Identification, The International Conference on Natural Language Processing and Knowledge Engineering (NLP-KE), 2012.
+     
+	
+      - Ranking Entities Similar to an Entity for a Given Relationship, The Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2010.
+      - Processing of Korean Natural Language Queries Using Local Grammars, International Conference on the Computer Processing of Oriental Languages (ICCPOL), 2009.
+      - Experience Search: Accessing the Emergent Knowledge from Annotated Blog Postings, Computational Science and Engineering (CSE), 2009.
+    <국내학술대회>
+      - Conceptual Reranking Using Single Document Feedback, Korea Computer Congress (KCC), 2012.
+      - Social Relationship Classification of Mobile Usesrs by Context-awareness, Korea Computer Congress (KCC), 2012.
+      - Automatic Collecting of Natural Language Expressions of Relations for Natural Language Interface, Korea Computer Congress (KCC), 2011.
